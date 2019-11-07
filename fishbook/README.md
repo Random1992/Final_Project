@@ -30,13 +30,16 @@ A social network for BUSINESS people who love FISH!
  ## <a name="Design">Design</a>
 
 ###Functionality
-     -[ ] [User Login and Logout](#login)
-     -[ ] [Security features for user login](#security)
-     -[ ] [Users can post their pictures](#post)
-     -[ ] [Users can search other users' profiles](#search)
-     -[ ] [Logging](#logging)
-     -[ ] [Monitoring](#monitoring)
-###Framework
+ - Due to the time limit, only part of the features will be implemented. 
+ The target features for this final project include:
+     - [ ] [User Login and Logout](#login)
+     - [ ] [Security features for user login](#security)
+     - [ ] [Users can post their pictures](#post)
+     - [ ] [Users can search other users' profiles](#search)
+     - [ ] [Logging/Monitoring](#logmonitor)
+###Design of the application's framework
+- The Framework/Tools I plan to use for the Frontend, Backend
+and the Database are listed bellow: 
     - Frontend
         - HTML/CSS
         - JavaScript
@@ -45,15 +48,15 @@ A social network for BUSINESS people who love FISH!
     - DataBase
         - MySQL
 ###Infrastructure
-    - Amazon Web Services (AWS)
-        - Two public EC2 Instances
-        - Two Private EC2 Instances
+- Amazon Web Services (AWS)
+    - Two public EC2 Instances
+    - Two Private EC2 Instances
 
-<p align="center">
-<img src="/src/resources/static/img/Infrastructure.png">
-</p>
+![image](https://github.com/Random1992/Final_Project/blob/master/fishbook/src/main/resources/static/img/Infrastructure.png)
 
-- ###DataBase
+###DataBase
+- Data Schema
+
 
 ##<a name="Implement">Implement</a>
 ###<a name="login">User Login Page</a>
