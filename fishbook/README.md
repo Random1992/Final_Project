@@ -37,6 +37,7 @@ A social network for BUSINESS people who love FISH!
      - [ ] [Users can post their pictures](#post)
      - [ ] [Users can search other users' profiles](#search)
      - [ ] [Logging/Monitoring](#logmonitor)
+     
 ###Design of the application's framework
 - The Framework/Tools I plan to use for the Frontend, Backend
 and the Database are listed bellow: 
@@ -59,9 +60,13 @@ and the Database are listed bellow:
 
 ![image](https://github.com/Random1992/Final_Project/blob/master/fishbook/src/main/resources/static/img/DatabaseSchema.png)
 
+###Application Flow
+
+
+
 ##<a name="Implement">Implement</a>
 ###<a name="login">User Login Page</a>
-
+![image](https://github.com/Random1992/Final_Project/blob/master/fishbook/src/main/resources/static/img/Diagram.png)
 ```java
 public interface userLogin{
     /**
