@@ -50,7 +50,7 @@ A social network for BUSINESS people who love FISH!
         - Two Private EC2 Instances
 
 <p align="center">
-<img src="/img/Infrastructure.png">
+<img src="/src/resources/static/img/Infrastructure.png">
 </p>
 
 - ###DataBase
